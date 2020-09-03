@@ -1,0 +1,9 @@
+#get-details {
+  height: 100vh;
+  width: 30vw;
+}
+
+.invalid-data {
+  size: 1rem;
+  color: red;
+}
